@@ -1,5 +1,4 @@
-# Plot Differential Gene Expression using RShiny App
-
+# Plot Differential Gene Expression using Shiny
 I'm thrilled to share my experience with you as I undertook this engaging guided project offered by Coursera where I've dived into the world of gene expression analysis, leveraging the power of Shiny to create interactive and insightful visualizations. 
 
 In the hands-on project, I delved into the captivating realm of gene expression analysis. I had the privilege of working with real-time PCR data sourced from a published research article titled "An Unbiased Systems Genetics Approach to Mapping Genetic Loci Modulating Susceptibility to Severe Streptococcal Sepsis" by Abdeltawab, N.F. et al. (2008). 
